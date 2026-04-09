@@ -56,7 +56,7 @@ The winner is decided using:
 2. Clone the repository:
 
 ```
-git clone 
+git clone - https://github.com/nikhilkumar210h-debug/-Snake-Water-Gun-Game-Python-
 ```
 
 3. Run the script:
